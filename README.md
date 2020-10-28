@@ -3,7 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+You can use NPM instead of YARN (Up to you)
+
+## Links for Task 2
+
+Manual deploy to S3: http://my-shop-manual.s3-website-eu-west-1.amazonaws.com/
+S3 bucket: https://s3.console.aws.amazon.com/s3/buckets/my-shop-manual/?region=eu-west-1
+Manual creating CloudFront distribution: https://dfg5td7rt4jlo.cloudfront.net/
+Automated deploy: https://d2jhass0gsygs6.cloudfront.net/ 
 
 ### `yarn start`
 
