@@ -12,7 +12,7 @@ S3 bucket: https://s3.console.aws.amazon.com/s3/buckets/my-shop-manual/?region=e
 Manual creating CloudFront distribution: https://dfg5td7rt4jlo.cloudfront.net/
 Automated deploy: https://d2jhass0gsygs6.cloudfront.net/ 
 
-### `yarn start`
+### `yarn start` OR `npm run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -20,12 +20,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `yarn test` OR `npm run test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `yarn build` OR `npm run build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -35,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `yarn eject` OR `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
