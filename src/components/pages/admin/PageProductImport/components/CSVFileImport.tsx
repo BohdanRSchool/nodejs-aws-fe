@@ -39,7 +39,7 @@ export default function CSVFileImport({ url, title }: CSVFileImportProps) {
         name: encodeURIComponent(file.name)
       },
       headers: {
-        Authorization: localStorage.getItem('token') ? `Basic ${localStorage.getItem('token')}` : ''
+        Authorization: localStorage.getItem('authorization_token') ? `Basic ${localStorage.getItem('authorization_token')}` : ''
       }
     })
     console.log('File to upload: ', file.name)
